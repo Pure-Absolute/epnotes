@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=EP Notes
+Exec=/usr/local/bin/epnotes %f
+Type=Application
+Terminal=true
+MimeType=application/x-epnotes;
+

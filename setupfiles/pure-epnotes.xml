@@ -1,0 +1,8 @@
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-epnotes">
+    <comment>Notes File</comment>
+    <glob pattern="*.note"/>
+    <glob pattern="*.notes"/>
+  </mime-type>
+</mime-info>
+
